@@ -1,0 +1,1 @@
+This repository contains examples of uncommon Python code errors and their solutions. This specific example focuses on robustly calculating the average of a list, addressing edge cases such as empty lists and lists containing non-numeric values. The `bug.py` file shows the initial code with the error, while `bugSolution.py` demonstrates how to solve the problem.
